@@ -45,4 +45,4 @@ Get started with MCP-S in just 5 minutes:
 For more information, visit [www.mcp-s.com](https://www.mcp-s.com)
 
 ---
-© 2024 MCP-S. All rights reserved.
+© 2025 MCP-S. All rights reserved.
