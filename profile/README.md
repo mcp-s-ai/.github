@@ -2,7 +2,7 @@
 
 MCP-S is an enterprise-grade platform that enables seamless integration between AI assistants and organizational tools. It provides a simple, smart, and secure way to connect AI assistants to your existing toolset.
 
-## Key Features
+## 🚀 Key Features
 
 - **Universal AI Assistant Integration**
   - Compatible with multiple AI platforms:
