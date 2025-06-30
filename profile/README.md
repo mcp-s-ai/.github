@@ -6,11 +6,12 @@ MCP-S is an enterprise-grade platform that enables seamless integration between 
 
 - **Universal AI Assistant Integration**
   - Compatible with multiple AI platforms:
-    - MCP S Chat
+    - MCP-S Chat
     - Cursor
     - Claude
     - Windsurf
     - VSCode
+    - And much more
 
 - **Enterprise-Grade Security & Compliance**
   - 🔐 SSO/IDP integration
@@ -27,9 +28,9 @@ MCP-S is an enterprise-grade platform that enables seamless integration between 
   - Toolkits for rapid onboarding of integrations
   - Custom tool building support
 
-## 🛡️ Open Source Gateway
+## 🛡️ Open Source Secure Gateway
 
-MCP-S provides an open source gateway that acts as a secure bridge between AI assistants and your tools and data.
+MCP-S provides an open-source gateway that acts as a secure bridge between AI assistants and your tools and data.
 
 Key benefits of using the secure gateway:
 - Full control over data flow
